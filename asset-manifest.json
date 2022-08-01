@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/probook/static/css/main.245a12f5.css",
+    "main.js": "/probook/static/js/main.97b63681.js",
+    "static/js/787.2d4508d3.chunk.js": "/probook/static/js/787.2d4508d3.chunk.js",
+    "index.html": "/probook/index.html",
+    "main.245a12f5.css.map": "/probook/static/css/main.245a12f5.css.map",
+    "main.97b63681.js.map": "/probook/static/js/main.97b63681.js.map",
+    "787.2d4508d3.chunk.js.map": "/probook/static/js/787.2d4508d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.245a12f5.css",
+    "static/js/main.97b63681.js"
+  ]
+}
